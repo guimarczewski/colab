@@ -1,0 +1,220 @@
+item_id,name,producer,country,region,vintage,kind,price_brl,price_usd
+1,Philipponnat Royale Reserve Brut,Philipponat,France,Champagne,0,sparkling,339.6,58.75
+2,Philipponnat Royale Reserve Rosé,Philipponat,France,Champagne,0,rose sparkling,489.0,84.6
+3,Philipponnat Cuvée 1522 Grand Cru Extra Brut,Philipponat,France,Champagne,2009,sparkling,789.0,136.51
+4,Philipponnat Cuvée 1522 1er Cru Rosé,Philipponat,France,Champagne,2008,rose sparkling,899.4,155.61
+5,Philipponnat Clos Des Goisses Brut,Philipponat,France,Champagne,2009,sparkling,1548.0,267.82
+6,Agrapart & Fils 7 Crus Brut,Agrapart,France,Champagne,0,sparkling,659.4,114.08
+7,Agrapart & Fils Terroirs Blanc de Blancs Grand Cru Extra-Brut,Agrapart,France,Champagne,0,sparkling,814.8,140.97
+8,Agrapart Minéral Blanc de Blancs Grand Cru Extra-Brut,Agrapart,France,Champagne,2013,sparkling,1199.4,207.51
+9,Agrapart Avizoise Blanc de Blancs Grand Cru Extra-Brut,Agrapart,France,Champagne,2013,sparkling,1499.4,259.41
+10,Zind-Humbrecht Gewurztraminer Hengst Grains Nobles Grand Cru - 375ml,Domaine Zind-Humbrecht,France,Alsace,2008,white,459.0,79.41
+11,Vacheron Sancerre Blanc,Domaine Vacheron,France,Loire Valley,2019,white,254.4,44.01
+12,Vacheron Sancerre Les Romains,Domaine Vacheron,France,Loire Valley,2018,white,409.2,70.8
+13,Vacheron Sancerre L’enclos des Remparts Franc de Pied,Domaine Vacheron,France,Loire Valley,2018,white,1794.0,310.38
+14,Nicolas Joly La Roche Aux Moines Clos de La Bergerie,Nicolas JOLY,France,Loire Valley,2018,white,539.4,93.32
+15,Nicolas Joly Clos de La Coulee De Serrant,Nicolas JOLY,France,Loire Valley,2018,white,785.4,135.88
+16,Mirabeau Classic,Mirabeau,France,Provence,2019,rose,115.2,19.93
+17,Mirabeau Pure,Mirabeau,France,Provence,2019,rose,135.6,23.46
+18,Mirabeau Pure - 15L (Magnum),Mirabeau,France,Provence,2019,rose,285.0,49.31
+19,Mirabeau Etoile,Mirabeau,France,Provence,2019,rose,159.6,27.61
+20,Triennes Les Aureliens Rouge,Triennes,France,Provence,2014,red,125.4,21.7
+21,Domaine Elian Da Ros Coucou Blanc,Elian da Ros,France,Sud Ouest,2018,white,299.4,51.8
+22,Domaine Elian Da Ros Le Vin est une Fete,Elian da Ros,France,Sud Ouest,2016,red,139.8,24.19
+23,Domaine Elian Da Ros Chante Coucou,Elian da Ros,France,Sud Ouest,2015,red,269.4,46.61
+24,Domaine Elian Da Ros Clos Baquey,Elian da Ros,France,Sud Ouest,2015,red,389.4,67.37
+25,La Chablisienne Bourgogne,La Chablisienne,France,Burgundy,2019,white,99.6,17.23
+26,La Chablisienne Petit Chablis Pas Si Petit,La Chablisienne,France,Burgundy,2019,white,135.6,23.46
+27,La Chablisienne Chablis La Pierrelée,La Chablisienne,France,Burgundy,2017,white,175.8,30.42
+28,La Chablisienne Chablis 1er Cru Côte De Léchet,La Chablisienne,France,Burgundy,2017,white,235.8,40.8
+29,La Chablisienne Chablis 1er Cru Beauroy,La Chablisienne,France,Burgundy,2016,white,249.6,43.18
+30,La Chablisienne Chablis 1er Cru Vaillons,La Chablisienne,France,Burgundy,2017,white,249.6,43.18
+31,La Chablisienne Chablis Grand Cru Bougros,La Chablisienne,France,Burgundy,2017,white,459.0,79.41
+32,La Chablisienne Chablis Grand Cru Grenouilles,La Chablisienne,France,Burgundy,2015,white,509.4,88.13
+33,La Chablisienne Chablis Grand Cru Les Preuses,La Chablisienne,France,Burgundy,2003,white,549.6,95.09
+34,La Chablisienne Chablis Grand Cru Les Preuses,La Chablisienne,France,Burgundy,2004,white,549.6,95.09
+35,Domaine Paul Pillot Bourgogne Rouge,Domaine Paul Pillot,France,Burgundy,2018,red,289.3,50.05
+36,Domaine Michel Niellon Chassagne-Montrachet,Domaine Michel Niellon,France,Burgundy,2017,white,619.2,107.13
+37,Domaine Michel Niellon Chassagne-Montrachet,Domaine Michel Niellon,France,Burgundy,2018,white,619.2,107.13
+38,Domaine Michel Niellon Chassagne-Montrachet 1er Cru Les Chenevottes,Domaine Michel Niellon,France,Burgundy,2018,white,899.4,155.61
+39,Domaine Michel Niellon Chassagne-Montrachet 1er Cru Clos de la Maltroie,Domaine Michel Niellon,France,Burgundy,2018,white,999.0,172.84
+40,Domaine Michel Niellon Chassagne-Montrachet Rouge,Domaine Michel Niellon,France,Burgundy,2018,red,419.4,72.56
+41,Domaine Alain Chavy Puligny-Montrachet - 375ml (Half Bottle),Domaine Alain Chavy,France,Burgundy,2018,white,359.4,62.18
+42,Domaine Alain Chavy Puligny-Montrachet,Domaine Alain Chavy,France,Burgundy,2018,white,689.4,119.27
+43,Domaine Alain Chavy Puligny-Montrachet 1er Cru Les Champs Gains,Domaine Alain Chavy,France,Burgundy,2018,white,949.2,164.22
+44,Domaine Alain Chavy Puligny-Montrachet 1er Cru Les Folatieres,Domaine Alain Chavy,France,Burgundy,2018,white,949.2,164.22
+45,Domaine Alain Chavy Puligny-Montrachet 1er Cru Clavoillons,Domaine Alain Chavy,France,Burgundy,2018,white,949.2,164.22
+46,Domaine Matrot Meursault,Domaine Matrot,France,Burgundy,2018,white,659.4,114.08
+47,Domaine Matrot Meursault 1er Cru Blagny,Domaine Matrot,France,Burgundy,2017,white,899.4,155.61
+48,Domaine Matrot Meursault 1er Cru Blagny,Domaine Matrot,France,Burgundy,2018,white,899.4,155.61
+49,Domaine Matrot Meursault 1er Cru Charmes,Domaine Matrot,France,Burgundy,2017,white,996.0,172.32
+50,Domaine Matrot Meursault 1er Cru Charmes,Domaine Matrot,France,Burgundy,2018,white,996.0,172.32
+51,Domaine Matrot Meursault 1er Cru Perrieres,Domaine Matrot,France,Burgundy,2018,white,1392.0,240.83
+52,Domaine Matrot Maranges Vieilles Vignes,Domaine Matrot,France,Burgundy,2018,red,299.4,51.8
+53,Domaine Matrot Maranges 1er Cru La Fussiere,Domaine Matrot,France,Burgundy,2018,red,409.2,70.8
+54,Domaine Matrot Blagny 1er Cru La Piece Sous Le Bois,Domaine Matrot,France,Burgundy,2018,red,798.0,138.06
+55,Domaine Antoine Jobard Meursault,Antoine Jobard,France,Burgundy,2017,white,799.2,138.27
+56,Domaine Antoine Jobard Meursault,Antoine Jobard,France,Burgundy,2018,white,799.2,138.27
+57,Domaine Antoine Jobard Meursault 1er Cru Blagny,Antoine Jobard,France,Burgundy,2017,white,1299.0,224.74
+58,Domaine Tessier Bourgogne Les Herbeux,Domaine Tessier,France,Burgundy,2018,white,299.4,51.8
+59,Domaine Tessier Bourgogne Les Herbeux,Domaine Tessier,France,Burgundy,2018,white,299.4,51.8
+60,Domaine Tessier Mersault,Domaine Tessier,France,Burgundy,2018,white,619.2,107.13
+61,Domaine Tessier Meursault Les Casse-Têtes,Domaine Tessier,France,Burgundy,2018,white,719.4,124.46
+62,Domaine Tessier Meursault 1er Cru Les Charmes Dessus,Domaine Tessier,France,Burgundy,2018,white,1029.6,178.13
+63,Domaine Pascal Prunier-Bonheur Auxey-Duresses Les Crais,Domaine Pascal Prunier-Bonheur,France,Burgundy,2017,white,349.2,60.42
+64,Domaine Pascal Prunier-Bonheur Monthelie Les Toisieres,Domaine Pascal Prunier-Bonheur,France,Burgundy,2018,white,449.4,77.75
+65,Domaine Pascal Prunier-Bonheur Bourgogne Rouge,Domaine Pascal Prunier-Bonheur,France,Burgundy,2018,red,219.6,37.99
+66,Domaine Pascal Prunier-Bonheur Auxey-Duresses,Domaine Pascal Prunier-Bonheur,France,Burgundy,2018,red,339.6,58.75
+67,Domaine Pascal Prunier-Bonheur Monthelie,Domaine Pascal Prunier-Bonheur,France,Burgundy,2017,red,339.6,58.75
+68,Domaine Pascal Prunier-Bonheur Auxey-Duresses 1er Cru Climat du Val,Domaine Pascal Prunier-Bonheur,France,Burgundy,2018,red,425.4,73.6
+69,Domaine Pascal Prunier-Bonheur Monthelie 1er Cru Les Vignes Rondes,Domaine Pascal Prunier-Bonheur,France,Burgundy,2018,red,449.4,77.75
+70,Fourrier Jean-Marie Latricieres-Chambertin Grand Cru Vieille Vigne,Domaine Fourrier,France,Burgundy,2018,red,3390.0,586.51
+71,Domaine Denis Mortet Grevrey-Chambertin Mes Cinq Terroirs,Domaine Denis Mortet,France,Burgundy,2018,red,945.0,163.49
+72,Domaine Denis Mortet Grevrey-Chambertin 1er Cru Lavaux Saint-Jacques,Domaine Denis Mortet,France,Burgundy,2018,red,2796.0,483.74
+73,Duroche Pierre & Mariannne Vosne-Romanée,Domaine Duroché,France,Burgundy,2018,red,999.0,172.84
+74,Duroche Pierre & Mariannne Echezeaux Grand Cru,Domaine Duroché,France,Burgundy,2017,red,2796.0,483.74
+75,Duroche Pierre & Mariannne Echezeaux Grand Cru,Domaine Duroché,France,Burgundy,2018,red,2796.0,483.74
+76,Domaine Hudelot-Noellat Bourgogne Passetoutgrain,Domaine Hudelot-Noellat,France,Burgundy,2017,red,199.2,34.46
+77,Domaine Hudelot-Noellat Bourgogne Passetoutgrain,Domaine Hudelot-Noellat,France,Burgundy,2018,red,199.2,34.46
+78,Domaine Hudelot-Noellat Bourgogne Rouge,Domaine Hudelot-Noellat,France,Burgundy,2017,red,339.0,58.65
+79,Domaine Hudelot-Noellat Bourgogne Rouge,Domaine Hudelot-Noellat,France,Burgundy,2018,red,339.0,58.65
+80,Domaine Berthaut-Gerbet Fixin Les Clos,Domaine Berthaut-Gerbet,France,Burgundy,2018,red,399.0,69.03
+81,Domaine Berthaut-Gerbet Vosne-Romanee,Domaine Berthaut-Gerbet,France,Burgundy,2018,red,659.4,114.08
+82,Domaine Dujac Clos de La Roche Grand Cru,Domaine Dujac,France,Burgundy,2017,red,3294.0,569.9
+83,Domaine Ponsot Morey-Saint-Denis 1er Cru Clos de Monts Luisants Vieilles Vignes,Domaine Ponsot,France,Burgundy,2017,white,1392.0,240.83
+84,Domaine Ponsot Corton-Charlemagne Grand Cru,Domaine Ponsot,France,Burgundy,2017,white,3294.0,569.9
+85,Domaine Ponsot Morey Saint Denis 1er Cru Cuvee des Alouettes,Domaine Ponsot,France,Burgundy,2017,red,1458.0,252.25
+86,Domaine Ponsot Corton Cuvée du Bourdon Grand Cru,Domaine Ponsot,France,Burgundy,2016,red,2550.0,441.18
+87,Domaine Ponsot Corton Cuvée du Bourdon Grand Cru,Domaine Ponsot,France,Burgundy,2017,red,2550.0,441.18
+88,Domaine Ponsot Chapelle-Chambertin Grand Cru,Domaine Ponsot,France,Burgundy,2014,red,3792.0,656.06
+89,Domaine Ponsot Chapelle-Chambertin Grand Cru,Domaine Ponsot,France,Burgundy,2015,red,3792.0,656.06
+90,Domaine Ponsot Chapelle-Chambertin Grand Cru,Domaine Ponsot,France,Burgundy,2016,red,3792.0,656.06
+91,Domaine Ponsot Chapelle-Chambertin Grand Cru,Domaine Ponsot,France,Burgundy,2017,red,3792.0,656.06
+92,Domaine Ponsot Clos de La Roche Grand Cru Cuvee Vieilles Vignes,Domaine Ponsot,France,Burgundy,2007,red,5994.0,1037.02
+93,Domaine Ponsot Clos de La Roche Grand Cru Cuvee Vieilles Vignes,Domaine Ponsot,France,Burgundy,2017,red,5292.0,915.57
+94,Domaine Ponsot Clos de La Roche Grand Cru Cuvee Vieilles Vignes - Magnum,Domaine Ponsot,France,Burgundy,2017,red,10992.0,1901.73
+95,Stephane Ogier Cote Rotie Mon Village,Stephane Ogier,France,Rhone,2017,red,599.4,103.7
+96,La Lence de Domaine de Fontbonau,Domaine de Fontbonau,France,Rhone,2017,white,229.2,39.65
+97,La Lence de Domaine de Fontbonau,Domaine de Fontbonau,France,Rhone,2018,white,229.2,39.65
+98,Les Chaux de Domaine de Fontbonau,Domaine de Fontbonau,France,Rhone,2015,red,165.0,28.55
+99,Domaine de Fontbonau,Domaine de Fontbonau,France,Rhone,2011,red,289.2,50.03
+100,Domaine de Fontbonau,Domaine de Fontbonau,France,Rhone,2012,red,290.2,50.21
+101,Eric Texier Adele Blanc,Eric Texier,France,Rhone,2019,white,165.0,28.55
+102,Eric Texier Brézeme Roussanne Blanc,Eric Texier,France,Rhone,2019,white,259.2,44.84
+103,Eric Texier Chateauneuf du Pape Vieilles Vignes Blanc,Eric Texier,France,Rhone,2017,white,599.4,103.7
+104,Eric Texier Chat Fou,Eric Texier,France,Rhone,2018,red,159.6,27.61
+105,Eric Texier Brézeme,Eric Texier,France,Rhone,2017,red,229.2,39.65
+106,Eric Texier Brézeme Domaine de Pergaud Vieille Serine,Eric Texier,France,Rhone,2015,red,319.2,55.22
+107,Eric Texier Chateauneuf du Pape Vieilles Vignes,Eric Texier,France,Rhone,2017,red,619.2,107.13
+108,Chapelle de Potensac,Chateau Potensac,France,Bordeaux,2014,red,169.2,29.27
+109,Potensac,Chateau Potensac,France,Bordeaux,2003,red,649.2,112.32
+110,Potensac,Chateau Potensac,France,Bordeaux,2013,red,299.3,51.78
+111,Potensac,Chateau Potensac,France,Bordeaux,2015,red,369.6,63.94
+112,Saint-Estephe de Montrose,Chateau Montrose,France,Bordeaux,2015,red,369.6,63.94
+113,La Dame de Montrose,Chateau Montrose,France,Bordeaux,2011,red,599.4,103.7
+114,Montrose,Chateau Montrose,France,Bordeaux,2012,red,1698.0,293.77
+115,Les Forts de Latour,Chateau Latour,France,Bordeaux,2011,red,2892.0,500.35
+116,Les Forts de Latour,Chateau Latour,France,Bordeaux,2012,red,2892.0,500.35
+117,Latour,Chateau Latour,France,Bordeaux,2002,red,9594.0,1659.86
+118,Reserve de La Comtesse,Chateau Pichon Longueville Comtesse de Lalande,France,Bordeaux,2014,red,669.6,115.85
+119,Pichon Longueville Comtesse de Lalande,Chateau Pichon Longueville Comtesse de Lalande,France,Bordeaux,2011,red,2094.0,362.28
+120,Petit Lion de Leoville Las Cases,Chateau Leoville Las Cases,France,Bordeaux,2014,red,619.2,107.13
+121,Leoville Las Cases,Chateau Leoville Las Cases,France,Bordeaux,2011,red,2190.0,378.89
+122,La Petite Marquise du Clos du Marquis,Clos du Marquis,France,Bordeaux,2017,red,419.4,72.56
+123,Clos du Marquis,Clos du Marquis,France,Bordeaux,2012,red,799.2,138.27
+124,La Reserve de Leoville Barton,Chateau Leoville Barton,France,Bordeaux,2014,red,459.6,79.52
+125,Leoville Barton,Chateau Leoville Barton,France,Bordeaux,2013,red,999.0,172.84
+126,Talbot Caillou Blanc,Chateau Talbot,France,Bordeaux,2018,white,509.4,88.13
+127,Connetable de Talbot,Chateau Talbot,France,Bordeaux,2017,red,369.6,63.94
+128,Talbot,Chateau Talbot,France,Bordeaux,2017,red,798.0,138.06
+129,La Croix de Beaucaillou,Chateau Ducru Beaucaillou,France,Bordeaux,2012,red,679.2,117.51
+130,La Croix de Beaucaillou,Chateau Ducru Beaucaillou,France,Bordeaux,2014,red,679.2,117.51
+131,Ducru Beaucaillou,Chateau Ducru Beaucaillou,France,Bordeaux,2014,red,2394.0,414.19
+132,Gloria,Chateau Gloria,France,Bordeaux,2010,red,849.6,146.99
+133,Gloria,Chateau Gloria,France,Bordeaux,2011,red,559.8,96.85
+134,Moulin D’Issan,Chateau D'Issan,France,Bordeaux,2017,red,199.8,34.57
+135,Blason D’Issan,Chateau D'Issan,France,Bordeaux,2014,red,399.0,69.03
+136,D’Issan,Chateau D'Issan,France,Bordeaux,2014,red,899.4,155.61
+137,Les Demoiselles de Larrivet Haut-Brion Blanc,Chateau Larrivet Haut-Brion,France,Bordeaux,2018,white,339.0,58.65
+138,Larrivet Haut-Brion Blanc,Chateau Larrivet Haut-Brion,France,Bordeaux,2018,white,559.2,96.75
+139,Les Demoiselles de Larrivet Haut-Brion,Chateau Larrivet Haut-Brion,France,Bordeaux,2013,red,285.0,49.31
+140,Larrivet Haut-Brion,Chateau Larrivet Haut-Brion,France,Bordeaux,2017,red,569.4,98.51
+141,Espirit de Pavie,Chateau Pavie,France,Bordeaux,2014,red,225.6,39.03
+142,Arômes de Pavie,Chateau Pavie,France,Bordeaux,2015,red,1299.0,224.74
+143,Château Pavie,Chateau Pavie,France,Bordeaux,2010,red,5999.4,1037.96
+144,Château Pavie,Chateau Pavie,France,Bordeaux,2014,red,4392.0,759.86
+145,Esperance de Trotanoy,Chateau Trotanoy,France,Bordeaux,2017,red,999.0,172.84
+146,Trotanoy,Chateau Trotanoy,France,Bordeaux,2017,red,3954.0,684.08
+147,Fugue de Nenin,Chateau Nenin,France,Bordeaux,2017,red,359.4,62.18
+148,Marjosse Rouge,Chateau Marjosse,France,Bordeaux,2016,red,139.8,24.19
+149,Climens Asphodele Grand Vin Blanc Sec,Chateau Climens,France,Bordeaux,2019,white,359.4,62.18
+150,Les Cypres de Climens Barsac,Chateau Climens,France,Bordeaux,2016,white,419.4,72.56
+151,Climens Barsac 1er Cru - 375ml (Half Bottle),Chateau Climens,France,Bordeaux,2015,white,699.0,120.93
+152,DV by Doisy-Vedrines Haut-Barsac - 375ml (Half Bottle),Chateau Doisy-Vedrines,France,Bordeaux,2016,white,145.8,25.22
+153,Doisy-Vedrines Haut-Barsac - 375ml (Half Bottle),Chateau Doisy-Vedrines,France,Bordeaux,2003,white,299.4,51.8
+154,Doisy-Vedrines Haut-Barsac - 375ml (Half Bottle),Chateau Doisy-Vedrines,France,Bordeaux,2004,white,299.4,51.8
+155,Astoria Spumante Cuvée Fashion Victim Rose Extra Dry,Astoria Wines,Italy,Veneto,0,rose sparkling,74.4,12.87
+156,Astoria Prosecco Fano Asolo Superiore Docg Extra Brut,Astoria Wines,Italy,Veneto,0,sparkling,95.4,16.51
+157,Astoria Prosecco Corderie Valdobbiadene Superiore Docg Extra Dry,Astoria Wines,Italy,Veneto,0,sparkling,99.0,17.13
+158,Casanova Di Neri IrRose,Casanova di Neri,Italy,Toscana,2018,rose,199.8,34.57
+159,Casanova Di Neri IrRosso,Casanova di Neri,Italy,Toscana,2016,red,165.6,28.65
+160,Casanova Di Neri Rosso Di Montalcino,Casanova di Neri,Italy,Toscana,2018,red,229.2,39.65
+161,Casanova Di Neri Brunello Di Montalcino,Casanova di Neri,Italy,Toscana,2015,red,579.6,100.28
+162,Casanova Di Neri Brunello Di Montalcino - 1.5L (Magnum),Casanova di Neri,Italy,Toscana,2015,red,1290.0,223.18
+163,Casanova Di Neri Brunello Tenuta Nuova,Casanova di Neri,Italy,Toscana,2015,red,999.0,172.84
+164,Casanova Di Neri Brunello Cerretalto,Casanova di Neri,Italy,Toscana,2013,red,2796.0,483.74
+165,Casanova Di Neri Pietradonice,Casanova di Neri,Italy,Toscana,2017,red,759.0,131.31
+166,Luciano Sandrone Dolcetto d'Alba,Sandrone,Italy,Piedmont,2018,red,165.0,28.55
+167,Luciano Sandrone Barolo Le Vigne,Sandrone,Italy,Piedmont,2014,red,1098.0,189.97
+168,Luciano Sandrone Barolo Le Vigne,Sandrone,Italy,Piedmont,2015,red,1098.0,189.97
+169,Luciano Sandrone Barolo Aleste,Sandrone,Italy,Piedmont,2014,red,1272.0,220.07
+170,Luciano Sandrone Barolo Aleste,Sandrone,Italy,Piedmont,2015,red,1272.0,220.07
+171,Villa Diamante Fiano di Avellino Vigna Della Congregazione,Villa Diamante,Italy,Campania,2017,white,279.0,48.27
+172,Villa Diamante Fiano di Avellino Vigna Della Congregazione,Villa Diamante,Italy,Campania,2018,white,279.0,48.27
+173,Villa Diamante Fiano di Avellino Clos D’Haut,Villa Diamante,Italy,Campania,2017,white,279.0,48.27
+174,Villa Diamante Fiano di Avellino Clos D’Haut,Villa Diamante,Italy,Campania,2018,white,279.0,48.27
+175,Tenute Rubino Jaddico Brindisi Riserva,Tenute Rubino,Italy,Puglia,2015,red,189.6,32.8
+176,Tenute Rubino Punta Aquila Primitivo,Tenute Rubino,Italy,Puglia,2017,red,119.4,20.66
+177,Tenute Rubino Visellio Primitivo,Tenute Rubino,Italy,Puglia,2015,red,259.2,44.84
+178,Cava Juvé & Camps Cinta Purpura Reserva Brut - 375ml (Half Bottle),Juvé & Camps,Spain,Penedès,0,sparkling,52.8,9.13
+179,Arinzano ‘Hacienda’ Vino de Pago Blanco,Arinzano,Spain,Navarra,2018,white,139.2,24.08
+180,Arinzano ‘Gran Vino’ Vino de Pago Blanco,Arinzano,Spain,Navarra,2016,white,549.0,94.98
+181,Arinzano ‘Hacienda’ Vino de Pago Tinto,Arinzano,Spain,Navarra,2017,red,149.4,25.85
+182,Arinzano ‘Gran Vino’ Vino de Pago Tinto,Arinzano,Spain,Navarra,2014,red,699.0,120.93
+183,Olivier Riviere La Bastid,Olivier Riviere,Spain,Rioja,2018,white,249.0,43.08
+184,Olivier Riviere Rayos Uva,Olivier Riviere,Spain,Rioja,2017,red,149.4,25.85
+185,Olivier Riviere Rayos Uva,Olivier Riviere,Spain,Rioja,2018,red,149.4,25.85
+186,Olivier Riviere Gabaxo,Olivier Riviere,Spain,Rioja,2018,red,199.2,34.46
+187,Olivier Riviere Ganko,Olivier Riviere,Spain,Rioja,2016,red,439.2,75.99
+188,Olivier Riviere Ganko,Olivier Riviere,Spain,Rioja,2017,red,439.2,75.99
+189,Olivier Riviere Las Viñas de Eusebio,Olivier Riviere,Spain,Rioja,2016,red,559.2,96.75
+190,Olivier Riviere Pozo Alto,Olivier Riviere,Spain,Rioja,2016,red,1290.0,223.18
+191,Aalto,Aalto,Spain,Ribera del Duero,2018,red,429.0,74.22
+192,Aalto - 1.5L (Magnum),Aalto,Spain,Ribera del Duero,2018,red,939.0,162.46
+193,Aalto - 3.0L (Double Magnum),Aalto,Spain,Ribera del Duero,2018,red,2094.0,362.28
+194,Aalto PS - 1.5L (Magnum),Aalto,Spain,Ribera del Duero,2018,red,2154.0,372.66
+195,Aalto PS  - 3.0L (Double Magnum),Aalto,Spain,Ribera del Duero,2018,red,4992.0,863.67
+196,Luis Seabra Xisto Ilimitado Branco,Luis Seabra Vinhos,Portugal,Douro,2019,white,135.0,23.36
+197,Luis Seabra Xisto Cru Branco,Luis Seabra Vinhos,Portugal,Douro,2018,white,399.4,69.1
+198,Luis Seabra Xisto Ilimitado Tinto,Luis Seabra Vinhos,Portugal,Douro,2018,red,135.0,23.36
+199,Luis Seabra Indie Xisto,Luis Seabra Vinhos,Portugal,Douro,2018,red,255.0,44.12
+200,Luis Seabra Mono C Castelão,Luis Seabra Vinhos,Portugal,Douro,2017,red,249.6,43.18
+201,Grau Baumé Branco,Grau Baumé,Portugal,Douro,2017,white,199.2,34.46
+202,Grau Baumé Tinto,Grau Baumé,Portugal,Douro,2016,red,319.8,55.33
+203,Pêra-Grave Branco,Pêra-Grave,Portugal,Alentejo,2019,white,99.6,17.23
+204,Pêra-Grave,Pêra-Grave,Portugal,Alentejo,2017,red,145.8,25.22
+205,Pêra-Grave - 1.5L (Magnum),Pêra-Grave,Portugal,Alentejo,2016,red,299.4,51.8
+206,Pêra-Grave Reserva,Pêra-Grave,Portugal,Alentejo,2016,red,289.2,50.03
+207,Pêra-Grave Reserva,Pêra-Grave,Portugal,Alentejo,2017,red,289.2,50.03
+208,Pêra-Grave Reserva - 1.5L (Magnum),Pêra-Grave,Portugal,Alentejo,2015,red,599.4,103.7
+209,Pêra-Grave Reserva - 1.5L (Magnum),Pêra-Grave,Portugal,Alentejo,2016,red,599.4,103.7
+210,Pêra-Grave Grande Reserva,Pêra-Grave,Portugal,Alentejo,2016,red,669.0,115.74
+211,Viñedo Chadwick,Viñedo Chadwick,Chile,Maipo,2017,red,3594.0,621.8
+212,Achaval-Ferrer Malbec,Achaval Ferrer,Argentina,Mendoza,2018,red,135.0,23.36
+213,Achaval-Ferrer Cabernet Sauvignon,Achaval Ferrer,Argentina,Mendoza,2017,red,139.8,24.19
+214,Achaval-Ferrer Cabernet Franc,Achaval Ferrer,Argentina,Mendoza,2017,red,139.8,24.19
+215,Achaval-Ferrer Quimera,Achaval Ferrer,Argentina,Mendoza,2015,red,235.2,40.69
+216,Achaval-Ferrer Finca Altamira,Achaval Ferrer,Argentina,Mendoza,2014,red,699.0,120.93
+217,Achaval-Ferrer Finca Bella Vista,Achaval Ferrer,Argentina,Mendoza,2014,red,539.4,93.32
+218,Achaval-Ferrer Finca Mirador,Achaval Ferrer,Argentina,Mendoza,2014,red,599.4,103.7
+219,Achaval-Ferrer Blend De Fincas Edição Limitada,Achaval Ferrer,Argentina,Mendoza,2014,red,999.0,172.84
